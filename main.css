@@ -5,9 +5,33 @@ html {
     padding: 2em;
     font-family: Arial, Helvetica, sans-serif;
 }
+body {
+    background-color: #ff1f13;
+}
+h1 {
+    font-family: 'Wendy One', sans-serif;
+}
+
+h2 {
+    font-family: 'Wendy One', sans-serif;
+}
+
+p {
+    font-family: 'arial', cursive;
+}
+#fortune-cookie-text  {
+    font-family: 'Amita', cursive;
+}
 
 .fortune-cookie-saying-wrapper {
-    border: 1px solid #666;
+    border: 5px solid #666;
     padding: 1em;
     margin: 1em;
+    background-color: orange;
+    font-family: 'Shadows Into Light', cursive;
+}
+
+ul {
+    list-style-type: none;
+    font-family: 'Shadows Into Light', cursive;
 }
